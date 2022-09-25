@@ -1,6 +1,6 @@
 # Scandinavian Home: React-Bootstrap Junior Font-End Porfolio Case Web-app
 25 September 2020
-The deployed web app is on [link]()
+The deployed web app is on [link](https://gleaming-dragon-8d1223.netlify.app/)
 
 ## OBJECTIVE
 The web-app Scandinavian Home is a template fror the web-app that perfoms the basic presentation for the diffrent types of houses in the Scandinavian countries. The web-app uses React.js, Bootstrap for React.js.
