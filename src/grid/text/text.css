@@ -1,0 +1,8 @@
+.fon {
+
+background-image: linear-gradient(to right top, #d5bf0f, #e19f00, #e97d00, #eb5616, #e6202e);
+padding: 1%;
+border: 1px solid transparent;
+border-radius: 7px;
+box-shadow: 15px 15px rgba(186, 34, 11, 0.2);
+}

@@ -1,0 +1,7 @@
+.birds{
+   background-image: url(./pattern.png);
+   background-repeat: repeat;
+   height: auto;
+   background-attachment: fixed;
+
+}
